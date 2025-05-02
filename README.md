@@ -21,9 +21,9 @@ As part of an academic research initiative at Pace University, this project mode
 
 ## 📈 Key Business Deliverables
 
-📄 [Business Requirement Document (BRD)](https://github.com/LahariKoppolu/Farm-to-Table-Disruption/Business_Analysis/Farm_to_Table_BRD.docx)  
-👥 [Stakeholder Analysis](https://github.com/LahariKoppolu/Farm-to-Table-Disruption/Business_Analysis/Stakeholder_Analysis.docx)  
-📊 [Policy Impact Scenarios – Excel Model](https://github.com/LahariKoppolu/Farm-to-Table-Disruption/Business_Analysis/Policy_Impact_Scenarios.xlsx)
+📄 [Business Requirement Document (BRD)](https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Business_Analysis/Farm_to_Table_BRD.docx)  
+👥 [Stakeholder Analysis](https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Business_Analysis/Stakeholder_Analysis.docx)  
+📊 [Policy Impact Scenarios – Excel Model](https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Business_Analysis/Stakeholder_Analysis.docx)
 
 > 📌 Note: These documents simulate real-world business analysis practices and were created as part of a structured academic project.
 
@@ -43,8 +43,8 @@ As part of an academic research initiative at Pace University, this project mode
 
 ## 📊 Tableau Dashboard 
 
-🔗 (https://github.com/LahariKoppolu/Farm-to-Table-Disruption/Data_Analysis/Tableau_Dashboard/Farm to Table Disruption Dashboard)
-📷 (https://github.com/LahariKoppolu/Farm-to-Table-Disruption/Data_Analysis/Tableau_Dashboard/Dashboard_image)
+🔗 (https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Data_Analysis/Tableau_Dashboard/Farm%20to%20Table%20Disruption%20Dashboard.twb)
+📷 (https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Data_Analysis/Tableau_Dashboard/Dashboard_image.png)
 
 ---
 
