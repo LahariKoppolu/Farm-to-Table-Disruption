@@ -44,6 +44,7 @@ As part of an academic research initiative at Pace University, this project mode
 ## 📊 Tableau Dashboard 
 
 🔗 (https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Data_Analysis/Tableau_Dashboard/Farm%20to%20Table%20Disruption%20Dashboard.twb)
+
 📷 (https://github.com/LahariKoppolu/Farm-to-Table-Disruption/blob/main/Data_Analysis/Tableau_Dashboard/Dashboard_image.png)
 
 ---
